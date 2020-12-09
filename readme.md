@@ -3,5 +3,4 @@ This is my tkinter experimental code
 I want to see if this works
 
 ## This is my work
-**bold** and *italics*
-
+**bold** and *italics
